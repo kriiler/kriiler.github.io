@@ -1,0 +1,42 @@
+body {
+  background: pink; 
+}
+.intro {
+  text-align:center;
+  color: palegreen;
+  font-family: fantasy;
+}
+
+p {
+  color: blueviolet;
+  font-family: fantasy;
+  text-align: center;
+}
+img {
+  float:left;
+  margin-right: 45px;
+}
+a:link{
+  color:rgb(128, 0, 255);
+}
+.lists{
+  
+  color: rgb(0, 153, 0);
+  font-family: fantasy;
+}
+
+.Me{
+  text-align: center;
+  color: palegreen;
+  font-family: Verdana;
+  background: rgb(204, 153, 255);
+}
+.attribution{
+color:black;
+  font-family: fantasy;
+}
+.jokes{
+  color: blueviolet;
+  font-family: fantasy;
+  text-align: left;
+}
