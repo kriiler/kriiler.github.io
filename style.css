@@ -3,7 +3,7 @@ body {
 }
 .intro {
   text-align:center;
-  color: palegreen;
+  color: rgb(122, 9, 79);
   font-family: fantasy;
 }
 
@@ -23,9 +23,8 @@ a:link{
 
 .Me{
   text-align: center;
-  color: palegreen;
-  font-family: Verdana;
-  background: rgb(204, 153, 255);
+  color: rgb(122, 9, 79);
+  font-family: fantasy;
 }
 
 .jokes{
