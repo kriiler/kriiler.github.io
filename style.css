@@ -1,39 +1,13 @@
 body {
-  background: rgb(176, 204, 255); 
-}
-.intro {
-  text-align:center;
-  color: rgb(122, 9, 79);
-  font-family: fantasy;
+  background: black; 
 }
 
 p {
-  color: blueviolet;
-  font-family: fantasy;
+  color: white;
+  font-family: Times New Roman;
   text-align: left;
 }
 
-a:link{
-  color:rgb(128, 0, 255);
-}
-.lists{
-  color: rgb(40, 82, 161);
-  font-family: fantasy;
-}
 
-.Me{
-  text-align: center;
-  color: rgb(122, 9, 79);
-  font-family: fantasy;
-}
 
-.jokes{
-  color: rgb(161, 90, 209);
-  font-family: fantasy;
-  text-align: center;
-}
-.socials{
-  color: rgb(222, 27, 88);
-  font-family: fantasy;
-  text-align: left;
-}
+
