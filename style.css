@@ -8,17 +8,53 @@ p {
   text-align: left;
 }
 
-.Youtube {
-  color: #f2190a;}
+.Youtube:link, .Youtube:visited{
+  background-color: #f2190a;
+  color: white;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;}
 
-.Twitch {
-  color: #6441a5;}
+.Youtube:hover{
+  background-color: #ff4c40;
+}
 
-.Twitter {
-  color: #58c8f5;}
+.Twitch:link, .Twitch:visited {
+  background-color: #6441a5;
+  color: white;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;}
 
-.Insta {
-  color: #b829ff;}
+.Twitch:hover{
+  background-color: #7b66a1;
+}
+
+.Twitter:link, .Twitch:visited {
+  background-color: #58c8f5;
+  color: white;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;}
+
+.Twitter:hover{
+  background-color: #9adcf7;
+}
+
+.Insta:link, .Insta:visited {
+  background-color: #b829ff;
+  color: white;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;}
+
+.Insta:hover{
+  background-color: #cc67ff;
+}
 
 .Discord {
   color: #7d85f3;}
