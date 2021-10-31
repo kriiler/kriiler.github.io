@@ -2,3 +2,5 @@
 a github pages
 
 find out waht's wrong with canvas and js
+
+change up gallery
