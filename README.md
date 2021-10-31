@@ -1,5 +1,4 @@
-# fiercewing.github.io
-a github pages
+# TO DO
 
 find out waht's wrong with canvas and js
 
